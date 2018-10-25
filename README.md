@@ -1,1 +1,1 @@
-Unity assets for EDD!
+Unity demo project for EDD - By Tony Montaña.
